@@ -1,0 +1,12 @@
+
+
+    p {
+    font-size: 30px;
+    color: gray;
+    }
+
+    @media only screen and (max-width: 600px) {
+  body {
+    background-color: rgb(240, 82, 9);
+    }
+  }
