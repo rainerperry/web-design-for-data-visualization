@@ -9,7 +9,7 @@ All website components must created. Tools used: HTML, Bootstrap, CSS, Jupyter N
 
 ![Main Menu](./images/Landing-Page.jpg?raw=true "Landing Page")
 
-### Objectives:
+### Objectives
 
 **1. Data**<br/>
 The data is pulled from the OpenWeatherMap API to include 500 cities from around the globe, their coordinates, data on cloudiness, humidity, temperatures, and wind speed at their locations.
@@ -27,7 +27,7 @@ Based on the four graphs, what conclusions can be drawn for the effects of all f
 
 ![Main Menu](./images/Humidity.jpg?raw=true "Humidity")
 
-### Analysis Summary:
+### Analysis Summary
 How do weather factors change at locations as they are closer to the equator:<br/>
 a) *Maximum Temperature:* Positive correlation (temperatures become significantly warmer as one approaches equator)<br/>
 b) *Humidity:* No measurable correlation (level of humidity is distributed evenly across latitudes)<br/>
